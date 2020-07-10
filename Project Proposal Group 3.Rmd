@@ -1,0 +1,39 @@
+---
+title: "Project Proposal Group 3"
+author: "Zhengqi Dong"
+date: "March 19, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+# Enable echo by default, disable messages and warnings
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+## Group3  members 
+* Cornelius Johnson
+* Zhengqi Dong
+* Zhaohong Wang
+
+##A summary of what you have done so far.
+So we, I finished all series of tutorial, and created some visualization demo based on example provided in shiny Gallery and also have shinyapp.io website setup sucessfully.
+
+## A summary of what you still need to do.
+In the following week, we will strat to draw more graph and analysis the data to give an specific and concrete answer to those question that we proposed, and we will pick several good visualization methods to represent our results. 
+For the presentation, I suggest to take some screenshoots for the graph or visulization from shinyapp and aggregate on MS PPT, so, during the presentation, we could discuss/explain base on the evidence, and at the end of presentation, we could use some live example, to interact with audience.
+
+Some specific to-do list:
+*Collect summary statistics for each race and state 
+*Identify rankings for each state, such as which state has the highest stop rate for each race 
+*Devise a statistical model to test for racial bias
+*Create graphics using ggplot to display the spatial distribution of stops 
+*Transfer this data to a shiny App 
+*Write a section on solutions to combat racial bias, referencing peer-reviewed sources and comparing our findings to the conditions necessary for each solution 
+
+
+## A screenshot of your work in progress app and/or your code.
+ There are some screenshot that were attached with this file.
+ And some demo link supported by shinyapps.io:
+ 1. 'https://dragoapp4194.shinyapps.io/demoApp/'
+ 2. 'https://dragoapp4194.shinyapps.io/05_speedupstockvis/'
+

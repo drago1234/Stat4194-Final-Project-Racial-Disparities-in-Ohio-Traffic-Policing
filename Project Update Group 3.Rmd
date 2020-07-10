@@ -1,0 +1,50 @@
+---
+title: "Project Proposal Group 3"
+author: "Zhengqi Dong & Cornelius Johnson"
+date: "March 19, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+# Enable echo by default, disable messages and warnings
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+## Group 3  members 
+  * Cornelius Johnson
+  * Zhengqi Dong
+  * Zhaohong Wang
+
+##A summary of what you have done so far.
+  We have finished all series of the Shiny tutorial, and created some visualization demos 
+  based on the examples provided in the Shiny Gallery. Additionally, we also have a shinyapp.io 
+  website set up sucessfully.
+
+## A summary of what you still need to do.
+  In the following week, we will start to draw more graphs and analyze the data to give a 
+  specific and concrete answer to those questions that we have proposed. Furthermore, we 
+  will pick several appropriate visualization methods to represent our results. 
+  For the presentation, we plan to include figures and samples from our shinyapp and aggregate 
+  on MS PPT, so, during the presentation, we could discuss/explain based on the evidence, and
+  at the end of the presentation, we could use some live examples to interact with the audience.
+
+ dSpecific to-do list:
+  
+  * Collect summary statistics for each race and state 
+  * Identify rankings for each state, such as which state has the highest stop rate for each race 
+  * Devise a statistical model to test for racial bias
+  * Create graphics using ggplot to display the spatial distribution of stops 
+  * Transfer this data to a shiny App 
+  * Write a section on solutions to combat racial bias, referencing peer-reviewed sources 
+    and comparing our findings to the conditions necessary for each solution 
+
+
+## A screenshot of your work in progress app and/or your code.
+  Please see the attached images for screenshots of our work, and the following links to view our 
+  demo apps. 
+
+  1.  https://dragoapp4194.shinyapps.io/demoApp/
+  2.  https://dragoapp4194.shinyapps.io/05_speedupstockvis/
+  
+
+
